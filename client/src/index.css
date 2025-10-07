@@ -1,0 +1,174 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 86% 6%;
+    --foreground: 0 0% 100%;
+    
+    --card: 240 33% 15%;
+    --card-foreground: 0 0% 100%;
+    
+    --popover: 240 33% 15%;
+    --popover-foreground: 0 0% 100%;
+    
+    --primary: 270 100% 50%;
+    --primary-foreground: 0 0% 100%;
+    
+    --secondary: 180 100% 50%;
+    --secondary-foreground: 240 33% 15%;
+    
+    --accent: 324 100% 50%;
+    --accent-foreground: 0 0% 100%;
+    
+    --destructive: 0 100% 50%;
+    --destructive-foreground: 0 0% 100%;
+    
+    --muted: 240 21% 20%;
+    --muted-foreground: 240 5% 65%;
+    
+    --border: 270 100% 50%;
+    --input: 240 33% 15%;
+    --ring: 270 100% 50%;
+    
+    --radius: 0rem;
+  }
+  
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply font-sans bg-background text-foreground antialiased;
+    background-image: radial-gradient(rgba(157, 0, 255, 0.07) 1px, transparent 1px),
+                      radial-gradient(rgba(0, 238, 255, 0.07) 1px, transparent 1px);
+    background-size: 40px 40px;
+    background-position: 0 0, 20px 20px;
+  }
+
+  /* Custom Fonts */
+  .font-arcade {
+    font-family: 'Press Start 2P', cursive;
+  }
+
+  .font-sans {
+    font-family: 'Inter', sans-serif;
+  }
+
+  .font-mono {
+    font-family: 'Source Code Pro', monospace;
+  }
+}
+
+/* Neon Effects */
+.neon-border {
+  @apply relative;
+  border: 2px solid;
+  box-shadow: 0 0 5px, 0 0 10px;
+}
+
+.neon-border-purple {
+  border-color: #9D00FF;
+  box-shadow: 0 0 5px #9D00FF, 0 0 10px #9D00FF;
+}
+
+.neon-border-blue {
+  border-color: #00EEFF;
+  box-shadow: 0 0 5px #00EEFF, 0 0 10px #00EEFF;
+}
+
+.neon-border-pink {
+  border-color: #FF0099;
+  box-shadow: 0 0 5px #FF0099, 0 0 10px #FF0099;
+}
+
+.neon-border-cyan {
+  border-color: #00FFDD;
+  box-shadow: 0 0 5px #00FFDD, 0 0 10px #00FFDD;
+}
+
+.neon-text-purple {
+  color: #9D00FF;
+  text-shadow: 0 0 5px #9D00FF, 0 0 10px #9D00FF;
+}
+
+.neon-text-blue {
+  color: #00EEFF;
+  text-shadow: 0 0 5px #00EEFF, 0 0 10px #00EEFF;
+}
+
+.neon-text-pink {
+  color: #FF0099;
+  text-shadow: 0 0 5px #FF0099, 0 0 10px #FF0099;
+}
+
+.neon-text-cyan {
+  color: #00FFDD;
+  text-shadow: 0 0 5px #00FFDD, 0 0 10px #00FFDD;
+}
+
+.neon-text-green {
+  color: #00FF66;
+  text-shadow: 0 0 5px #00FF66, 0 0 10px #00FF66;
+}
+
+/* Pixel Corners */
+.pixel-corners {
+  clip-path: polygon(
+    0 5px, 5px 5px, 5px 0, calc(100% - 5px) 0, calc(100% - 5px) 5px, 100% 5px, 
+    100% calc(100% - 5px), calc(100% - 5px) calc(100% - 5px), calc(100% - 5px) 100%, 5px 100%, 
+    5px calc(100% - 5px), 0 calc(100% - 5px)
+  );
+}
+
+/* Scan Line Animation */
+.scan-line {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: rgba(157, 0, 255, 0.2);
+  z-index: 999;
+  pointer-events: none;
+  animation: scan-line 4s linear infinite;
+}
+
+@keyframes scan-line {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(100vh); }
+}
+
+/* Progress Bar */
+.progress-bar {
+  position: relative;
+  height: 14px;
+  background: #1E1E2F;
+  border: 2px solid #9D00FF;
+}
+
+.progress-fill {
+  height: 100%;
+  box-shadow: 0 0 10px, 0 0 20px;
+}
+
+/* Neon Pulse Animation */
+@keyframes neon-pulse {
+  0%, 100% { text-shadow: 0 0 5px #9D00FF, 0 0 10px #9D00FF, 0 0 20px #9D00FF; }
+  50% { text-shadow: 0 0 15px #9D00FF, 0 0 30px #9D00FF, 0 0 40px #9D00FF; }
+}
+
+.animate-neon-pulse {
+  animation: neon-pulse 2s ease-in-out infinite;
+}
+
+/* Floating Animation */
+@keyframes pixel-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+
+.animate-pixel-float {
+  animation: pixel-float 3s ease-in-out infinite;
+}

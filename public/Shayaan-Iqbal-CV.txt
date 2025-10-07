@@ -1,0 +1,131 @@
+SHAYAAN IQBAL
+Sr. Unity Developer & Game Designer
+-----------------------------------
+
+CONTACT INFORMATION
+------------------
+Address: A3 block, Johar, Town, Lahore, Pakistan
+Phone: +923017689696
+Email: shayaan.dev@gmail.com
+
+PROFILE
+-------
+Extremely efficient Unity Developer and game designer with extensive experience of 3.5 years in the gaming industry. Seeking a position in which my creative skills in programming, game project management, and industry knowledge can be used as an asset to the company.
+
+EDUCATION
+---------
+BS Computer Science
+Information Technology University, Lahore — 2017-2021
+
+Intermediate
+Punjab Group of Colleges, Okara — 2017
+
+Matric
+Falcon Public School, Okara — 2015
+
+PROFESSIONAL EXPERIENCE
+----------------------
+Sr. Unity Developer
+GenITeam Solutions, Lahore — Dec 2022 to Present
+• Develop innovative gameplay features for multiple mobile game projects
+• Lead a team of 2 junior developers to success in their assigned projects
+• Implement and optimize game logic to ensure maximum performance
+• Collaborate with designers, artists, and QA to ensure high-quality game experiences
+
+Unity Game Developer
+Ocular Game Studio, Lahore — July 2021 to Dec 2022
+• Created gameplay mechanics for various mobile games
+• Implemented UI systems and optimized game performance
+• Set up analytics and player feedback systems
+• Collaborated with cross-functional teams to ensure seamless game experiences
+
+Mobile Game Developer
+GenITeam Solutions, Lahore — Jan 2021 to July 2021
+• Developed and maintained mobile games for Android and iOS platforms
+• Implemented UI systems, localization, and in-app purchases
+• Collaborated with team members on gameplay features and bug fixes
+• Optimized performance for a variety of mobile devices
+
+Junior Unity Developer
+GenITeam Solutions, Lahore — July 2020 to Jan 2021
+• Assisted senior developers with implementing gameplay features
+• Created UI elements and basic game mechanics
+• Fixed bugs and optimized code
+• Participated in design and code reviews
+
+Unity Game Developer (Internship)
+Game Over Gaming Zone, Lahore — Jan 2020 to July 2020
+• Learned game development workflows and best practices
+• Assisted in mobile game development projects
+• Implemented basic UI elements and gameplay features
+• Tested games and fixed reported issues
+
+SKILLS
+------
+Game Development:
+- Unity (Expert): 95%
+- C# Programming: 90%
+- Mobile Game Development: 95%
+- Game Design: 85%
+- Multiplayer Implementation: 80%
+
+Software & Tools:
+- Git: 85%
+- Blender: 60%
+- Photoshop: 70%
+- Firebase: 80%
+- AdMob/IAP Integration: 90%
+
+Soft Skills:
+- Team Leadership: 85%
+- Project Management: 80%
+- Problem Solving: 90%
+- Communication: 85%
+- Time Management: 90%
+
+PROJECTS
+--------
+Play Time Adventure
+Role: Unity Developer
+- An adventure game where players navigate challenges in a vibrant and interactive environment
+- Technologies: Unity, C#, Mobile, Android, iOS
+
+Hide and Prank
+Role: Gameplay Programmer
+- A stealth-based prank game where players execute creative pranks while avoiding detection
+- Technologies: Unity, C#, AI, Mobile Development
+
+Cat Simulator
+Role: Unity Developer
+- A simulation game where players take on the role of a stray cat navigating urban environments
+- Technologies: Unity, C#, Character Controllers, Physics
+
+Baby in Diaper
+Role: Gameplay Programmer
+- A casual game centered around baby care and nurturing activities
+- Technologies: Unity, C#, Mobile, UI/UX
+
+Tiny Toon Guys
+Role: Unity Developer
+- A fun, cartoon-styled game featuring tiny characters in challenging obstacle courses
+- Technologies: Unity, C#, Animation, Physics
+
+Meme Shooter
+Role: FPS Mechanics Developer
+- A humorous FPS game featuring popular internet memes as targets in shooting challenges
+- Technologies: Unity, C#, FPS Mechanics, Mobile
+
+Cheat and Run
+Role: AI Programmer
+- A stealth game where players must use clever tactics to succeed without getting caught
+- Technologies: Unity, C#, AI, Stealth Mechanics
+
+Scary Robber
+Role: Gameplay Programmer
+- An adventure game featuring stealth mechanics and puzzle solving elements
+- Technologies: Unity, C#, Puzzle Design, Android
+
+LANGUAGES
+---------
+Urdu (Native)
+English (Fluent)

@@ -1,0 +1,90 @@
+Game Developer Portfolio Website Prompt
+Website Theme & Style
+Create a professional game developer portfolio website with a vibrant retro arcade aesthetic. The site should feature:
+
+A dark background with neon color accents (primarily blues, purples, pinks, and cyans)
+Pixel art elements and retro arcade graphics (without overwhelming the content)
+Subtle animated elements like glowing effects on buttons and headers
+Arcade-style typography for headings with modern, readable fonts for body text
+Grid-based layout reminiscent of arcade cabinets or game levels
+Optional subtle background patterns inspired by classic arcade games (Space Invaders, Pac-Man, etc.)
+
+Site Structure
+Include these essential sections:
+
+Hero Section
+
+Striking header with my name and title "Game Developer"
+Brief tagline highlighting my specialty
+Call-to-action buttons for portfolio and contact
+Optional pixel art avatar or animated game character
+
+
+About Me
+
+Professional summary of my experience and passion for game development
+Technical skills visualization (like a skill tree or progress bars)
+Background and education in a concise, engaging format
+
+
+Projects Showcase
+
+Grid layout of game projects with screenshots/GIFs
+Each project should include:
+
+Game title and thumbnail/preview
+Brief description
+Technologies used
+My role in development
+Links to play/download/source code where available
+
+
+
+
+Technologies & Skills
+
+Visual representation of my technical skills
+Game engines: (e.g., Unity, Unreal Engine)
+Programming languages: (e.g., C#, C++, JavaScript)
+3D modeling/animation tools
+Level design tools
+Other relevant skills
+
+
+Work Experience
+
+Timeline or list of relevant work experience
+Achievements at each position
+
+
+Contact Section
+
+Simple contact form
+Social media and professional links (GitHub, LinkedIn, etc.)
+Download resume option
+
+
+
+Interactive Elements
+
+Loading screens between sections that mimic retro games
+Hover effects on project cards that animate like arcade game selections
+Interactive easter eggs (like mini-games or hidden pixel art discoveries)
+Page transitions with arcade-inspired animations
+
+Technical Considerations
+
+Mobile-responsive design
+Fast loading times despite visual elements
+Accessibility features
+Cross-browser compatibility
+Optimized images and assets
+
+Content Suggestions
+
+Include case studies for 2-3 featured projects
+Show development process with before/after or progress screenshots
+Video demonstrations of gameplay embedded where appropriate
+Code snippets highlighting elegant solutions to game development problems
+
+The website should balance professional presentation with the fun, creative energy of arcade gaming, showcasing both technical proficiency and artistic vision.
