@@ -18,7 +18,7 @@ export default function HeroSection() {
                 Game <NeonText color="blue">Developer</NeonText>
               </NeonText>
               <NeonText color="pink" tag="p" className="text-xl md:text-2xl font-arcade">
-                Unity & AR/VR Specialist
+               Unity, Playable Ads & VR Dev
               </NeonText>
             </motion.div>
             
@@ -28,7 +28,7 @@ export default function HeroSection() {
               transition={{ delay: 0.2, duration: 0.5 }}
               className="text-gray-300 mb-8 max-w-lg"
             >
-              Game Developer with 4 years of experience in the gaming industry. Skilled in AR/VR, playable ads, and creating engaging gameplay. Strong in programming, design, and project management, with a focus on building fun and innovative games.
+              Game Developer with 4 years of experience in the gaming industry. Skilled in playable ads, and creating engaging gameplay. Strong in programming, design, and project management, with a focus on building fun and innovative games.
             </motion.p>
             
             <motion.div 

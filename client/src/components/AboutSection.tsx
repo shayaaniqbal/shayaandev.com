@@ -41,7 +41,7 @@ export default function AboutSection() {
                     <NeonText color="purple" tag="h3" className="font-arcade text-lg mb-2">
                       Shayaan Iqbal
                     </NeonText>
-                    <div className="text-sm text-gray-400 mb-2">Game Developer | Unity & AR/VR Specialist</div>
+                    <div className="text-sm text-gray-400 mb-2">Game Developer | Unity, Playable Ads & VR Dev</div>
                     <div className="flex gap-2 flex-wrap">
                       <span className="inline-block px-2 py-1 bg-purple-900 bg-opacity-40 text-xs rounded pixel-corners text-purple-300">Unity</span>
                       <span className="inline-block px-2 py-1 bg-blue-900 bg-opacity-40 text-xs rounded pixel-corners text-blue-300">C#</span>
@@ -54,7 +54,7 @@ export default function AboutSection() {
                 <div className="space-y-4 text-gray-300">
                   <p>
                     Unity Developer and Game Designer with 4 years of experience in the gaming industry. 
-                    Skilled in AR/VR, playable ads, and creating engaging gameplay. Strong in programming, 
+                    Skilled in playable ads, and creating engaging gameplay. Strong in programming, 
                     design, and project management, with a focus on building fun and innovative games.
                   </p>
                   
@@ -136,8 +136,8 @@ export default function AboutSection() {
 
                     <div className="mt-4">
                       <a 
-                        href="/Shayaan-Iqbal-CV.txt" 
-                        download="Shayaan-Iqbal-CV.txt"
+                        href="/ShayaanIqbalCV.pdf" 
+                        download="ShayaanIqbalCV.pdf"
                         className="inline-block px-4 py-2 bg-pink-900 bg-opacity-40 text-pink-300 rounded pixel-corners hover:bg-opacity-60 transition-all"
                       >
                         Download CV

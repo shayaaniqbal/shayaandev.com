@@ -9,7 +9,7 @@ const projects: ProjectData[] = [
     technologies: ['Unity', 'C#', 'Mobile', 'Android', 'iOS', 'Multiplayer'],
     liveUrl: 'https://play.google.com/store/apps/details?id=com.zatg.scaryteacher.campescape&hl=en&gl=US&pli=1',
     color: 'purple',
-    role: 'Unity Developer',
+    role: 'Unity Developer (Developed while working at GenITeam Solutions)',
     publishedDate: '2024-06-15'
   },
   {
@@ -20,7 +20,7 @@ const projects: ProjectData[] = [
     technologies: ['Unity', 'C#', 'AI', 'Mobile Development'],
     liveUrl: 'https://play.google.com/store/apps/details?id=com.zatg.catchme.pranks',
     color: 'blue',
-    role: 'Gameplay Programmer',
+    role: 'Gameplay Programmer (Developed while working at GenITeam Solutions)',
     publishedDate: '2024-08-20'
   },
   {
@@ -31,7 +31,7 @@ const projects: ProjectData[] = [
     technologies: ['Unity', 'C#', 'Puzzle Design', 'Android'],
     liveUrl: 'https://play.google.com/store/apps/details?id=com.zatg.scaryrobber.boylife',
     color: 'cyan',
-    role: 'Gameplay Programmer',
+    role: 'Gameplay Programmer (Developed while working at GenITeam Solutions)',
     publishedDate: '2023-11-10'
   },
   {
@@ -42,7 +42,7 @@ const projects: ProjectData[] = [
     technologies: ['Unity', 'C#', 'Puzzle Design', 'Horror'],
     liveUrl: 'https://play.google.com/store/apps/details?id=com.zatg.cat.trouble.horror.haunted',
     color: 'purple',
-    role: 'Unity Developer',
+    role: 'Unity Developer (Developed while working at GenITeam Solutions)',
     publishedDate: '2025-09-16'
   },
   {
@@ -53,7 +53,7 @@ const projects: ProjectData[] = [
     technologies: ['Unity', 'C#', 'Action', 'Puzzles'],
     liveUrl: 'https://play.google.com/store/apps/details?id=com.zakg.scaryteacher.hellgame',
     color: 'pink',
-    role: 'Unity Developer',
+    role: 'Unity Developer (Developed while working at GenITeam Solutions)',
     publishedDate: '2019-05-01'
   },
   // {
